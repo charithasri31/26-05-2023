@@ -1,0 +1,25 @@
+/* p{
+    font-style: italic; 
+    font-weight: bold;  
+    text-decoration: line-through;
+
+    }  */
+    /*a{
+        text-decoration: none;
+    }
+    p{
+        border:dotted;
+        border-width: 8px;
+        border-color: green;
+        border-radius: 8px;
+        color:#190124;
+        font-size: 80px;
+    }
+body{
+    background-color: aqua;
+}*/
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg');
+    background-size: cover;
+    height:100vh;
+}
